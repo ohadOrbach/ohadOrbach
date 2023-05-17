@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @ohadOrbach
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ohadorbach92@gmail.com
+Hi, I'm Ohad Orbach
+I'm a Software Engineer with the capabilities and the desire to face various challenges.
 
-<!---
-ohadOrbach/ohadOrbach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn
+Tech Knowledge
+Languages
+
+C C++ Java Python 
+Infrastructure
+
+Git GitHub MySQL SQLite
+Enviroment, IDEs and Tools
+
+Visual Studio PyCharm Windows Ubuntu
