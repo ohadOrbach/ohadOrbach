@@ -13,8 +13,16 @@
 ## Environment, IDEs and Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-1ED760?style=for-the-badge&logo=pycharm&logoColor=white)
 
+## Education
+- **M.Sc. in Computer Science**, Haifa University
+- **B.Sc. in Computer Science**, Haifa University
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OhadOrbach&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📈 GitHub Contributions:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=OhadOrbach&theme=dark)
+
 
 ## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ohadorbach) 
