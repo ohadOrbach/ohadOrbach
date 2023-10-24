@@ -14,8 +14,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-%230077B5?style=for-the-badge&logo=pycharm&logoColor=brightgreen) ![Windows](https://img.shields.io/badge/Windows-%230077B5?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%230077B5?style=for-the-badge&logo=ubuntu&logoColor=red) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OhadOrbach&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OhadOrbach&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OhadOrbach&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 LinkedIn:
